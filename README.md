@@ -22,7 +22,7 @@ If it can be automated, optimized, or intelligently enhanced, I'm probably build
 
 - 🤖 Developing AI-assisted testing tools that actually understand your code
 - 🔧 Building open-source utilities for modern QA workflows
-- 🌐 Contributing to **[@qacancode](https://github.com/qacancode)** – empowering QA engineers to code with confidence
+- 🌐 Founder of **[@qacancode](https://github.com/qacancode)** – empowering QA engineers to code with confidence
 - 📚 Sharing insights at **[qacancode.com](https://qacancode.com)**
 
 ---
