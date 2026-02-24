@@ -51,7 +51,7 @@ Quality assurance isn't just about finding bugs—it's about building systems th
 ## 🤝 Let's Connect
 
 - **LinkedIn:** [@codebygk](https://linkedin.com/in/codebygk)
-- **X:** [@codebygk](https://github.com/codebygk)
+- **X:** [@codebygk](https://x.com/codebygk)
 
 💬 **Let's collaborate** on making QA engineering more powerful and accessible
 
